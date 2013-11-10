@@ -20,5 +20,6 @@ var searchData=
   ['stargatemodule',['StargateModule',['../class_h_base_1_1_stargate_1_1_client_1_1_autofac_1_1_stargate_module.html',1,'HBase::Stargate::Client::Autofac']]],
   ['stargateoptions',['StargateOptions',['../class_h_base_1_1_stargate_1_1_client_1_1_api_1_1_stargate_options.html',1,'HBase::Stargate::Client::Api']]],
   ['startrow',['StartRow',['../class_h_base_1_1_stargate_1_1_client_1_1_api_1_1_scanner_options.html#afc14be4f51061108a584c8d1a23ca7f4',1,'HBase::Stargate::Client::Api::ScannerOptions']]],
-  ['stoprow',['StopRow',['../class_h_base_1_1_stargate_1_1_client_1_1_api_1_1_scanner_options.html#ae14dd085596f0e711182d470e1ae6e58',1,'HBase::Stargate::Client::Api::ScannerOptions']]]
+  ['stoprow',['StopRow',['../class_h_base_1_1_stargate_1_1_client_1_1_api_1_1_scanner_options.html#ae14dd085596f0e711182d470e1ae6e58',1,'HBase::Stargate::Client::Api::ScannerOptions']]],
+  ['stream',['Stream',['../class_h_base_1_1_stargate_1_1_client_1_1_h_base_mime_types.html#a692a88e6130174c19232bf2d36cae8cf',1,'HBase::Stargate::Client::HBaseMimeTypes']]]
 ];

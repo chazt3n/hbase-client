@@ -1,6 +1,8 @@
 var class_h_base_1_1_stargate_1_1_client_1_1_api_1_1_stargate =
 [
     [ "Stargate", "class_h_base_1_1_stargate_1_1_client_1_1_api_1_1_stargate.html#a03180170cda1cae5dff8937acec6e20b", null ],
+    [ "Create", "class_h_base_1_1_stargate_1_1_client_1_1_api_1_1_stargate.html#af9574534ad6df759e0240cd1026bd9a9", null ],
+    [ "Create", "class_h_base_1_1_stargate_1_1_client_1_1_api_1_1_stargate.html#a72d1c51efa7d38dcb1d02786144fbc67", null ],
     [ "CreateScanner", "class_h_base_1_1_stargate_1_1_client_1_1_api_1_1_stargate.html#a31cf1948a9a522c12ce2afee4281b3b3", null ],
     [ "CreateScannerAsync", "class_h_base_1_1_stargate_1_1_client_1_1_api_1_1_stargate.html#ad86ad6bde0b66871b3bd5c24ee359d02", null ],
     [ "CreateTable", "class_h_base_1_1_stargate_1_1_client_1_1_api_1_1_stargate.html#aa8f6bf5c2622390496423c799622dce2", null ],
